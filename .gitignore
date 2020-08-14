@@ -1,3 +1,4 @@
 *.log
 error.temp
 dir/
+dump
